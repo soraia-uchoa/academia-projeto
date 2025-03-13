@@ -15,3 +15,38 @@ body {
     font-family: verdana;
     font-size: 20px;
   }
+ .outros-botoes {
+    text-align: center;
+}
+
+.button1 {
+    border: none;
+    border-radius: 40px;
+    color: white;
+    background-color: rgb(148, 224, 250);
+    padding: 15px 32px;
+}
+
+.button2 {
+    border: none;
+    border-radius: 40px;
+    color: white;
+    background-color: rgb(135, 223, 252);
+    padding: 15px 32px;
+}
+
+.button3 {
+    border: none;
+    border-radius: 40px;
+    color: white;
+    background-color: rgb(131, 219, 248);
+    padding: 15px 32px;
+}
+.button4 {
+    border: none;
+    border-radius: 40px;
+    color: white;
+    background-color: rgb(131, 219, 248);
+    padding: 15px 32px;
+
+}
