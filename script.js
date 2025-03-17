@@ -1,6 +1,7 @@
-function usuario() {
-    alert('funcionou')
-    
-    if (planoMensal === 'Plano mensal:100 R$')
-        alert('seu plano mensal:100 R$ ', ' + nome + ', ' + peso + ', ' + alutura + ')
+function usuario(user) {
+    const {name, button1} = user;
+
+    if (button1 === 'plano mensal: 100 R$') {
+        alert('você escolheu o plano mensal de 100 R$, ' + name + '!');
+    }
 }
