@@ -1,48 +1,52 @@
- body {
-    background-color: rgb(152, 153, 153);
-  }
-  
-  h1 {
-    color: rgb(0, 0, 0);
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
- .outros-botoes {
-    text-align: center;
+body {
+  background-color: rgb(152, 153, 153);
+  text-align: center;
+}
+
+h1 {
+  color: rgb(27, 27, 27);
+  text-align: center;
+}
+
+h2 {
+  font-variant: small-caps ;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+.outros-botoes {
+  text-align: center;
 }
 
 .button1 {
-    border: none;
-    border-radius: 40px;
-    color: white;
-    background-color: rgb(0, 0, 0);
-    padding: 15px 32px;
+  border: none;
+  border-radius: 40px;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  padding: 15px 32px;
 }
 
 .button2 {
-    border: none;
-    border-radius: 40px;
-    color: white;
-    background-color: rgb(0, 0, 0);
-    padding: 15px 32px;
+  border: none;
+  border-radius: 40px;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  padding: 15px 32px;
 }
 
 .button3 {
-    border: none;
-    border-radius: 40px;
-    color: white;
-    background-color: rgb(0, 0, 0);
-    padding: 15px 32px;
+  border: none;
+  border-radius: 40px;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  padding: 15px 32px;
 }
 .button4 {
-    border: none;
-    border-radius: 40px;
-    color: white;
-    background-color: rgb(0, 0, 0);
-    padding: 15px 32px;
+  border: none;
+  border-radius: 40px;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  padding: 15px 32px;
 
 }
